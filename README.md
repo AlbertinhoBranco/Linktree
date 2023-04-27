@@ -1,2 +1,2 @@
 # Linktree
-Esse é meu primeiro projeto em HTML e CSS
+Esse é meu primeiro projeto feito em HTML e CSS!
